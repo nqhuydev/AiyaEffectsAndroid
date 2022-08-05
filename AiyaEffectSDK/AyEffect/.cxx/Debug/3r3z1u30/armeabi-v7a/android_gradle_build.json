@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ADMIN\\Desktop\\Github\\AiyaEffectsAndroid\\AiyaEffectSDK\\AyEffect\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\ADMIN\\Desktop\\Github\\AiyaEffectsAndroid\\AiyaEffectSDK\\AyEffect\\.cxx\\Debug\\3r3z1u30\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\ADMIN\\Desktop\\Github\\AiyaEffectsAndroid\\AiyaEffectSDK\\AyEffect\\.cxx\\Debug\\3r3z1u30\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "AyEffectJni::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "armeabi-v7a",
+      "artifactName": "AyEffectJni",
+      "output": "C:\\Users\\ADMIN\\Desktop\\Github\\AiyaEffectsAndroid\\AiyaEffectSDK\\AyEffect\\build\\intermediates\\cxx\\Debug\\3r3z1u30\\obj\\armeabi-v7a\\libAyEffectJni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,3 @@
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyBeauty/.cxx/RelWithDebInfo/1d2g5b12/x86/CMakeFiles/AyBeautyJni.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyBeauty/.cxx/RelWithDebInfo/1d2g5b12/x86/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyBeauty/.cxx/RelWithDebInfo/1d2g5b12/x86/CMakeFiles/rebuild_cache.dir

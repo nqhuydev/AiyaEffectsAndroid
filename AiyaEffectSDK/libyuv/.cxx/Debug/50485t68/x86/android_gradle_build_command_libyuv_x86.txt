@@ -1,0 +1,7 @@
+Executable : C:\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ADMIN\Desktop\Github\AiyaEffectsAndroid\AiyaEffectSDK\libyuv\.cxx\Debug\50485t68\x86
+libyuv
+jvmArgs : 
+

@@ -1,0 +1,7 @@
+Executable : C:\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ADMIN\Desktop\Github\AiyaEffectsAndroid\AiyaEffectSDK\AyEffect\.cxx\Debug\3r3z1u30\x86
+AyEffectJni
+jvmArgs : 
+

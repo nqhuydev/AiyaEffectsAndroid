@@ -1,0 +1,7 @@
+# ninja log v5
+0	915	681378358	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	2e0ea75ab2d09523
+919	1756	681378359	../../../../build/intermediates/cxx/Debug/28365o3d/obj/arm64-v8a/libAyCoreJni.so	c51331ec3cdb8c36
+2	871	681378451	../../../../build/intermediates/cxx/Debug/28365o3d/obj/arm64-v8a/libAyCoreJni.so	c51331ec3cdb8c36
+0	12	0	clean	2d427f19fa94e51f
+6	1037	681393504	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	2e0ea75ab2d09523
+1037	1943	681393505	../../../../build/intermediates/cxx/Debug/28365o3d/obj/arm64-v8a/libAyCoreJni.so	c51331ec3cdb8c36

@@ -1,0 +1,7 @@
+Executable : C:\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ADMIN\Desktop\Github\AiyaEffectsAndroid\AiyaEffectSDK\AyFaceTrack\.cxx\Debug\p62404q6\arm64-v8a
+AyFaceTrackJni
+jvmArgs : 
+

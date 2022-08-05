@@ -1,0 +1,6 @@
+# ninja log v5
+1	1124	681377989	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ae364182b6ff7aaa
+1128	1960	681377990	../../../../build/intermediates/cxx/Debug/2n5o30g5/obj/armeabi-v7a/libAyCoreJni.so	b62593261ec224c2
+0	22	0	clean	2d427f19fa94e51f
+2	1070	681378187	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ae364182b6ff7aaa
+1070	1892	681378188	../../../../build/intermediates/cxx/Debug/2n5o30g5/obj/armeabi-v7a/libAyCoreJni.so	b62593261ec224c2

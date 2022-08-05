@@ -1,0 +1,3 @@
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/libyuv/.cxx/Debug/2h1o1xwb/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/libyuv/.cxx/Debug/2h1o1xwb/arm64-v8a/CMakeFiles/libyuv.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/libyuv/.cxx/Debug/2h1o1xwb/arm64-v8a/CMakeFiles/rebuild_cache.dir

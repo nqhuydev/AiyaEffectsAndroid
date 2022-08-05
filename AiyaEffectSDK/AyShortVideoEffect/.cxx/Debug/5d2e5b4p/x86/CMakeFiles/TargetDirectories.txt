@@ -1,0 +1,3 @@
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyShortVideoEffect/.cxx/Debug/5d2e5b4p/x86/CMakeFiles/AyShortVideoEffectJni.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyShortVideoEffect/.cxx/Debug/5d2e5b4p/x86/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyShortVideoEffect/.cxx/Debug/5d2e5b4p/x86/CMakeFiles/rebuild_cache.dir

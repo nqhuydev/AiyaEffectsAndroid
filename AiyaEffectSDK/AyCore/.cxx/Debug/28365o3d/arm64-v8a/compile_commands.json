@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyCore/.cxx/Debug/28365o3d/arm64-v8a",
+  "command": "C:\\Android\\Sdk\\ndk\\16.1.4479499\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android --gcc-toolchain=C:/Android/Sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Android/Sdk/ndk/16.1.4479499/sysroot -DAyCoreJni_EXPORTS -I../../../../../AyCore/src/main/include -I../../../../../AyBeauty/src/main/include -I../../../../../AyEffect/src/main/include -I../../../../../AyFaceTrack/src/main/include -I../../../../../AyShortVideoEffect/src/main/include -isystem C:/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem C:/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem C:/Android/Sdk/ndk/16.1.4479499/sources/cxx-stl/gnu-libstdc++/4.9/include/backward -isystem C:/Android/Sdk/ndk/16.1.4479499/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\AyCoreJni.dir\\src\\main\\cpp\\AyCore_jni.cpp.o -c C:\\Users\\ADMIN\\Desktop\\Github\\AiyaEffectsAndroid\\AiyaEffectSDK\\AyCore\\src\\main\\cpp\\AyCore_jni.cpp",
+  "file": "C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyCore/src/main/cpp/AyCore_jni.cpp"
+}
+]

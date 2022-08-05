@@ -1,0 +1,7 @@
+# ninja log v5
+0	22	0	clean	2d427f19fa94e51f
+1	933	681378326	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	820dac467aa0f2aa
+938	1808	681378327	../../../../build/intermediates/cxx/Debug/4t2g474d/obj/x86/libAyShortVideoEffectJni.so	80dbb6cc0a3bfb35
+0	10	0	clean	2d427f19fa94e51f
+2	935	681393514	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	820dac467aa0f2aa
+935	1835	681393515	../../../../build/intermediates/cxx/Debug/4t2g474d/obj/x86/libAyShortVideoEffectJni.so	80dbb6cc0a3bfb35

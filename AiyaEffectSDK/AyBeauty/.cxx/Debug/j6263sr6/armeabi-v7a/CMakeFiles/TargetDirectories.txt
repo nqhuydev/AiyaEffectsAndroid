@@ -1,0 +1,3 @@
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyBeauty/.cxx/Debug/j6263sr6/armeabi-v7a/CMakeFiles/AyBeautyJni.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyBeauty/.cxx/Debug/j6263sr6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyBeauty/.cxx/Debug/j6263sr6/armeabi-v7a/CMakeFiles/rebuild_cache.dir

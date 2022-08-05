@@ -1,0 +1,7 @@
+# ninja log v5
+1	1051	681378343	CMakeFiles/AyEffectJni.dir/src/main/cpp/AyEffect_jni.cpp.o	66100a2dc009c7e1
+1056	1915	681378344	../../../../build/intermediates/cxx/Debug/4i5l6l5l/obj/arm64-v8a/libAyEffectJni.so	d7b693e1928e20a2
+7	904	681378452	../../../../build/intermediates/cxx/Debug/4i5l6l5l/obj/arm64-v8a/libAyEffectJni.so	d7b693e1928e20a2
+0	12	0	clean	2d427f19fa94e51f
+8	1032	681393546	CMakeFiles/AyEffectJni.dir/src/main/cpp/AyEffect_jni.cpp.o	66100a2dc009c7e1
+1032	1937	681393547	../../../../build/intermediates/cxx/Debug/4i5l6l5l/obj/arm64-v8a/libAyEffectJni.so	d7b693e1928e20a2

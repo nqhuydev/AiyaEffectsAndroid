@@ -1,0 +1,7 @@
+Executable : C:\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+C:\Users\ADMIN\Desktop\Github\AiyaEffectsAndroid\AiyaEffectSDK\AyShortVideoEffect\.cxx\Debug\5d2e5b4p\armeabi-v7a
+AyShortVideoEffectJni
+jvmArgs : 
+

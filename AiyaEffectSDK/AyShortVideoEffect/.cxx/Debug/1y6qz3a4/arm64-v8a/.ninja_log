@@ -1,0 +1,25 @@
+# ninja log v5
+1	341	681373427	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	fdaa85674d26bb32
+343	483	681373428	../../../../build/intermediates/cxx/Debug/1y6qz3a4/obj/arm64-v8a/libAyShortVideoEffectJni.so	6fafb45a1d52f55e
+0	8	0	clean	2d427f19fa94e51f
+0	6	0	clean	2d427f19fa94e51f
+2	350	681373678	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	fdaa85674d26bb32
+351	443	681373678	../../../../build/intermediates/cxx/Debug/1y6qz3a4/obj/arm64-v8a/libAyShortVideoEffectJni.so	6fafb45a1d52f55e
+0	12	0	clean	2d427f19fa94e51f
+2	307	681373893	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	fdaa85674d26bb32
+307	441	681373893	../../../../build/intermediates/cxx/Debug/1y6qz3a4/obj/arm64-v8a/libAyShortVideoEffectJni.so	6fafb45a1d52f55e
+0	7	0	clean	2d427f19fa94e51f
+0	8	0	clean	2d427f19fa94e51f
+2	299	681376031	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	fdaa85674d26bb32
+299	418	681376031	../../../../build/intermediates/cxx/Debug/1y6qz3a4/obj/arm64-v8a/libAyShortVideoEffectJni.so	6fafb45a1d52f55e
+0	11	0	clean	2d427f19fa94e51f
+3	352	681376163	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	fdaa85674d26bb32
+352	482	681376163	../../../../build/intermediates/cxx/Debug/1y6qz3a4/obj/arm64-v8a/libAyShortVideoEffectJni.so	6fafb45a1d52f55e
+0	7	0	clean	2d427f19fa94e51f
+1	17	0	clean	2d427f19fa94e51f
+3	333	681376246	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	fdaa85674d26bb32
+333	467	681376246	../../../../build/intermediates/cxx/Debug/1y6qz3a4/obj/arm64-v8a/libAyShortVideoEffectJni.so	6fafb45a1d52f55e
+0	21	0	clean	2d427f19fa94e51f
+0	11	0	clean	2d427f19fa94e51f
+2	340	681376457	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	fdaa85674d26bb32
+340	509	681376457	../../../../build/intermediates/cxx/Debug/1y6qz3a4/obj/arm64-v8a/libAyShortVideoEffectJni.so	6fafb45a1d52f55e

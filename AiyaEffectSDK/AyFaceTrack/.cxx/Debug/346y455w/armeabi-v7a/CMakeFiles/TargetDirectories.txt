@@ -1,0 +1,3 @@
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyFaceTrack/.cxx/Debug/346y455w/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyFaceTrack/.cxx/Debug/346y455w/armeabi-v7a/CMakeFiles/AyFaceTrackJni.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyFaceTrack/.cxx/Debug/346y455w/armeabi-v7a/CMakeFiles/rebuild_cache.dir

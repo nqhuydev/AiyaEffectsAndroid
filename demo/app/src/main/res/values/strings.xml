@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VideoFace</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_animation">Animation</string>
+    <string name="btn_recorder">Recorder</string>
+    <string name="btn_convert">Convert</string>
+    <string name="btn_stop_recorder">Stop Record</string>
+    <string name="btn_start_recorder">Start Record</string>
+    <string name="btn_switch_camera">Switch Camera</string>
+    <string name="btn_decoder_and_encoder">Decode and Encode</string>
+</resources>

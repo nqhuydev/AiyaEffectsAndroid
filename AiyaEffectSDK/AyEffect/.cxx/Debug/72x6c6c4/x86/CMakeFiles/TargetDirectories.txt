@@ -1,0 +1,3 @@
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyEffect/.cxx/Debug/72x6c6c4/x86/CMakeFiles/AyEffectJni.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyEffect/.cxx/Debug/72x6c6c4/x86/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyEffect/.cxx/Debug/72x6c6c4/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+# ninja log v5
+1	362	681373420	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ab6aebc893f4741d
+367	492	681373421	../../../../build/intermediates/cxx/Debug/1k3t346b/obj/arm64-v8a/libAyCoreJni.so	2852aef7c45db7d5
+1	10	0	clean	2d427f19fa94e51f
+0	17	0	clean	2d427f19fa94e51f
+6	422	681373690	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ab6aebc893f4741d
+422	542	681373690	../../../../build/intermediates/cxx/Debug/1k3t346b/obj/arm64-v8a/libAyCoreJni.so	2852aef7c45db7d5
+0	17	0	clean	2d427f19fa94e51f
+2	348	681373905	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ab6aebc893f4741d
+349	509	681373905	../../../../build/intermediates/cxx/Debug/1k3t346b/obj/arm64-v8a/libAyCoreJni.so	2852aef7c45db7d5
+0	12	0	clean	2d427f19fa94e51f
+1	15	0	clean	2d427f19fa94e51f
+3	383	681376041	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ab6aebc893f4741d
+383	506	681376041	../../../../build/intermediates/cxx/Debug/1k3t346b/obj/arm64-v8a/libAyCoreJni.so	2852aef7c45db7d5
+0	19	0	clean	2d427f19fa94e51f
+2	392	681376172	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ab6aebc893f4741d
+392	526	681376172	../../../../build/intermediates/cxx/Debug/1k3t346b/obj/arm64-v8a/libAyCoreJni.so	2852aef7c45db7d5
+0	15	0	clean	2d427f19fa94e51f
+0	10	0	clean	2d427f19fa94e51f
+3	409	681376255	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ab6aebc893f4741d
+409	550	681376255	../../../../build/intermediates/cxx/Debug/1k3t346b/obj/arm64-v8a/libAyCoreJni.so	2852aef7c45db7d5
+1	20	0	clean	2d427f19fa94e51f
+0	11	0	clean	2d427f19fa94e51f
+2	432	681376469	CMakeFiles/AyCoreJni.dir/src/main/cpp/AyCore_jni.cpp.o	ab6aebc893f4741d
+432	530	681376469	../../../../build/intermediates/cxx/Debug/1k3t346b/obj/arm64-v8a/libAyCoreJni.so	2852aef7c45db7d5

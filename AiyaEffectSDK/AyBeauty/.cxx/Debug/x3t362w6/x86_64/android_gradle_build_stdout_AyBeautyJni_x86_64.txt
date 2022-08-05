@@ -1,0 +1,1 @@
+ninja: Entering directory `C:\Users\ADMIN\Desktop\Github\AiyaEffectsAndroid\AiyaEffectSDK\AyBeauty\.cxx\Debug\x3t362w6\x86_64'

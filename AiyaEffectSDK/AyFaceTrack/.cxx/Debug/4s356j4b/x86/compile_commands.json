@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyFaceTrack/.cxx/Debug/4s356j4b/x86",
+  "command": "C:\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android17 --gcc-toolchain=C:/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DAyFaceTrackJni_EXPORTS -I../../../../../AyCore/src/main/include -I../../../../../AyBeauty/src/main/include -I../../../../../AyEffect/src/main/include -I../../../../../AyFaceTrack/src/main/include -I../../../../../AyShortVideoEffect/src/main/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles\\AyFaceTrackJni.dir\\src\\main\\cpp\\AyFaceTrack_jni.cpp.o -c C:\\Users\\ADMIN\\Desktop\\Github\\AiyaEffectsAndroid\\AiyaEffectSDK\\AyFaceTrack\\src\\main\\cpp\\AyFaceTrack_jni.cpp",
+  "file": "C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyFaceTrack/src/main/cpp/AyFaceTrack_jni.cpp"
+}
+]

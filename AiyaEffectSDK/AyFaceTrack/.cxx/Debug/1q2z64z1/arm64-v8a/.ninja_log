@@ -1,0 +1,10 @@
+# ninja log v5
+0	2140	681378163	CMakeFiles/AyFaceTrackJni.dir/src/main/cpp/AyFaceTrack_jni.cpp.o	be9f91ab30518986
+2146	3107	681378164	../../../../build/intermediates/cxx/Debug/1q2z64z1/obj/arm64-v8a/libAyFaceTrackJni.so	6f8175d5be4743a5
+0	31	0	clean	2d427f19fa94e51f
+8	1010	681378330	CMakeFiles/AyFaceTrackJni.dir/src/main/cpp/AyFaceTrack_jni.cpp.o	be9f91ab30518986
+1011	1894	681378331	../../../../build/intermediates/cxx/Debug/1q2z64z1/obj/arm64-v8a/libAyFaceTrackJni.so	6f8175d5be4743a5
+2	820	681378453	../../../../build/intermediates/cxx/Debug/1q2z64z1/obj/arm64-v8a/libAyFaceTrackJni.so	6f8175d5be4743a5
+0	15	0	clean	2d427f19fa94e51f
+3	1033	681393553	CMakeFiles/AyFaceTrackJni.dir/src/main/cpp/AyFaceTrack_jni.cpp.o	be9f91ab30518986
+1033	1901	681393554	../../../../build/intermediates/cxx/Debug/1q2z64z1/obj/arm64-v8a/libAyFaceTrackJni.so	6f8175d5be4743a5

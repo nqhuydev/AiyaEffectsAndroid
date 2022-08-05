@@ -1,0 +1,12 @@
+# ninja log v5
+1	391	681374329	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	dd3ca1391b96ab09
+395	562	681374329	../../../../build/intermediates/cxx/Debug/5d2e5b4p/obj/armeabi-v7a/libAyShortVideoEffectJni.so	995e3ed700ed000
+0	13	0	clean	2d427f19fa94e51f
+7	405	681374918	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	dd3ca1391b96ab09
+405	523	681374918	../../../../build/intermediates/cxx/Debug/5d2e5b4p/obj/armeabi-v7a/libAyShortVideoEffectJni.so	995e3ed700ed000
+0	19	0	clean	2d427f19fa94e51f
+7	337	681375228	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	dd3ca1391b96ab09
+338	452	681375228	../../../../build/intermediates/cxx/Debug/5d2e5b4p/obj/armeabi-v7a/libAyShortVideoEffectJni.so	995e3ed700ed000
+1	17	0	clean	2d427f19fa94e51f
+3	365	681375425	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	dd3ca1391b96ab09
+366	515	681375425	../../../../build/intermediates/cxx/Debug/5d2e5b4p/obj/armeabi-v7a/libAyShortVideoEffectJni.so	995e3ed700ed000

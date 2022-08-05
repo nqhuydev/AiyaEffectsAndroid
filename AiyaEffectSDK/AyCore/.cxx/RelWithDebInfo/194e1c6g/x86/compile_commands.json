@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyCore/.cxx/RelWithDebInfo/194e1c6g/x86",
+  "command": "C:\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android17 --gcc-toolchain=C:/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DAyCoreJni_EXPORTS -I../../../../../AyCore/src/main/include -I../../../../../AyBeauty/src/main/include -I../../../../../AyEffect/src/main/include -I../../../../../AyFaceTrack/src/main/include -I../../../../../AyShortVideoEffect/src/main/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\AyCoreJni.dir\\src\\main\\cpp\\AyCore_jni.cpp.o -c C:\\Users\\ADMIN\\Desktop\\Github\\AiyaEffectsAndroid\\AiyaEffectSDK\\AyCore\\src\\main\\cpp\\AyCore_jni.cpp",
+  "file": "C:/Users/ADMIN/Desktop/Github/AiyaEffectsAndroid/AiyaEffectSDK/AyCore/src/main/cpp/AyCore_jni.cpp"
+}
+]

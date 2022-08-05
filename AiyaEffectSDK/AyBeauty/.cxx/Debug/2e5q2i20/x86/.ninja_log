@@ -1,0 +1,21 @@
+# ninja log v5
+0	16	0	clean	2d427f19fa94e51f
+9	345	681374352	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AyBeauty_jni.cpp.o	6ff9dac142fed221
+5	484	681374352	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AyBigEye_jni.cpp.o	19ef1035245fe071
+0	513	681374352	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AySlimFace_jni.cpp.o	97fa00e9332d6c80
+513	649	681374352	../../../../build/intermediates/cxx/Debug/2e5q2i20/obj/x86/libAyBeautyJni.so	6cd5bd5b8661b3c4
+0	16	0	clean	2d427f19fa94e51f
+21	351	681374947	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AyBeauty_jni.cpp.o	6ff9dac142fed221
+16	504	681374947	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AySlimFace_jni.cpp.o	97fa00e9332d6c80
+9	534	681374947	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AyBigEye_jni.cpp.o	19ef1035245fe071
+534	671	681374947	../../../../build/intermediates/cxx/Debug/2e5q2i20/obj/x86/libAyBeautyJni.so	6cd5bd5b8661b3c4
+1	22	0	clean	2d427f19fa94e51f
+13	377	681375255	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AyBeauty_jni.cpp.o	6ff9dac142fed221
+12	479	681375255	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AyBigEye_jni.cpp.o	19ef1035245fe071
+7	546	681375255	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AySlimFace_jni.cpp.o	97fa00e9332d6c80
+546	677	681375255	../../../../build/intermediates/cxx/Debug/2e5q2i20/obj/x86/libAyBeautyJni.so	6cd5bd5b8661b3c4
+0	10	0	clean	2d427f19fa94e51f
+16	370	681375440	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AyBeauty_jni.cpp.o	6ff9dac142fed221
+11	506	681375440	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AySlimFace_jni.cpp.o	97fa00e9332d6c80
+6	521	681375440	CMakeFiles/AyBeautyJni.dir/src/main/cpp/AyBigEye_jni.cpp.o	19ef1035245fe071
+522	618	681375440	../../../../build/intermediates/cxx/Debug/2e5q2i20/obj/x86/libAyBeautyJni.so	6cd5bd5b8661b3c4

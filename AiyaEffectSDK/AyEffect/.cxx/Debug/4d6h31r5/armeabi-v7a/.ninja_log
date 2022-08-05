@@ -1,0 +1,6 @@
+# ninja log v5
+1	1211	681378350	CMakeFiles/AyEffectJni.dir/src/main/cpp/AyEffect_jni.cpp.o	dd80d89d163c6358
+1215	2202	681378351	../../../../build/intermediates/cxx/Debug/4d6h31r5/obj/armeabi-v7a/libAyEffectJni.so	31bc2c3b2d7e317d
+0	24	0	clean	2d427f19fa94e51f
+8	1201	681393548	CMakeFiles/AyEffectJni.dir/src/main/cpp/AyEffect_jni.cpp.o	dd80d89d163c6358
+1202	2053	681393549	../../../../build/intermediates/cxx/Debug/4d6h31r5/obj/armeabi-v7a/libAyEffectJni.so	31bc2c3b2d7e317d

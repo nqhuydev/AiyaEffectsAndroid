@@ -1,0 +1,7 @@
+# ninja log v5
+0	966	681378318	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	bf52354a63cc7fdd
+971	1829	681378319	../../../../build/intermediates/cxx/Debug/382c5e36/obj/arm64-v8a/libAyShortVideoEffectJni.so	598e0cca1482f47a
+2	810	681378454	../../../../build/intermediates/cxx/Debug/382c5e36/obj/arm64-v8a/libAyShortVideoEffectJni.so	598e0cca1482f47a
+0	11	0	clean	2d427f19fa94e51f
+4	959	681393510	CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o	bf52354a63cc7fdd
+960	1774	681393511	../../../../build/intermediates/cxx/Debug/382c5e36/obj/arm64-v8a/libAyShortVideoEffectJni.so	598e0cca1482f47a

@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\ADMIN\Desktop\Github\AiyaEffectsAndroid\AiyaEffectSDK\AyShortVideoEffect\.cxx\Debug\4t2g474d\x86'
+[1/2] Building CXX object CMakeFiles/AyShortVideoEffectJni.dir/src/main/cpp/AyShortVideoEffect_jni.cpp.o
+[2/2] Linking CXX shared library ..\..\..\..\build\intermediates\cxx\Debug\4t2g474d\obj\x86\libAyShortVideoEffectJni.so
